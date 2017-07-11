@@ -1,6 +1,10 @@
 # JetBrains Idea / PyCharm files
 .idea
 
+#setup files
+.setup_paths
+
+
 # Python compiled files
 *.pyc
 *.pyo
