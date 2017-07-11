@@ -1,0 +1,9 @@
+# JetBrains Idea / PyCharm files
+.idea
+
+# Python compiled files
+*.pyc
+*.pyo
+
+#Local settings
+local_settings.py
