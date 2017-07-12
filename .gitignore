@@ -4,6 +4,8 @@
 #setup files
 .setup_paths
 
+#data folder
+data
 
 # Python compiled files
 *.pyc
